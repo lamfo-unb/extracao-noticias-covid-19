@@ -9,6 +9,12 @@ import requests
 import json
 import pandas as pd
 import numpy as np
+from googlesearch import search
+
+query = 'coronavirus'
+resposta = search(query, domains = ['elpais.com'])
+
+[print(k) for k in resposta] 
 
 resposta = requests.get('http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js')
 
