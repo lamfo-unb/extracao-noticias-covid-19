@@ -124,4 +124,11 @@ class ScraperArtigosAbertos:
 
 if __name__ == "__main__":
     
-    ''
+    from scrapers.corona_feed import CoronaFeed
+    corona_feed = CoronaFeed()
+    noticias = corona_feed.extrair_dados()
+    noticias = noticias.iloc[0:10,]
+    artigos_abertos = ScraperArtigosAbertos(noticias['links'], noticias['titulo'])
+    textos = artigos_abertos.dados_extraidos
+    index = artigos_abertos.index_noticias
+    artigos_abertos.salvar_texto(path_dir = 'resultados/')

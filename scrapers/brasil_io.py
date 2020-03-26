@@ -11,18 +11,36 @@ import time
 
 
 class BrasilIO:
+    """
+    Download dados covid-19 no Brasil de brasil.io
+    """
     
     def __init__(self):
         self.__url_api = 'https://brasil.io/api/dataset/covid19?format=json'
         self.__url_data = self._obter_url_data()
-
+        
+    def _try_requisicao(self):
+        for _ in range(3):
+            try:
+                return requests.get(self.__url_api)
+            except requests.ConnectionError:
+                print('Erro com a conecção, tentanto novamente em 5s..')
+                time.sleep(5)
+                e = requests.ConnectionError
+            except requests.ConnectTimeout:
+                print('Servidor demorou para responder, tentanto novamente em 5s..')
+                time.sleep(5)
+                e = requests.ConnectTimeout
+        else:
+            raise e
+    
     def _obter_url_data(self):
         def requisicao(url):
             return requests.get(url)
         
         def try_requisicao(url_api):
             for _ in range(3):
-                resposta = requisicao(self.__url_api)
+                resposta = self._try_requisicao()
                 if resposta.status_code == 200:
                     return resposta
                 print('Refazendo requisição')
