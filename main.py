@@ -57,3 +57,4 @@ CNN = CNN_Scraper(CNN_DIR)
 worldometer.run_scraper()
 CNN.run()
 
+
