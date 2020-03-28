@@ -117,6 +117,9 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# Vscode project
+.vscode/
+
 # Rope project settings
 .ropeproject
 
@@ -136,6 +139,12 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# csv files
+resultados/basil_io/*.csv
+resultados/corona_feed/*.txt
+resultados/corona_feed/*.csv
+resultados/jhon_hopkins/*.csv
 
 #  outros files
 .google-cookie
