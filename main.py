@@ -19,22 +19,22 @@ PATH_DIR = 'C:\\Users\\piphi\\Documents\\CoronaVirusScraper\\extracao-noticias-c
 CNN_DIR = "C:\\Users\\piphi\\Documents\\CoronaVirusScraper\\extracao-noticias-covid-19\\resultados\\CNN Articles\\"
 # Extração brasil.io
 brasil_io = BrasilIO()
-#casos = brasil_io.extrair_dados()
+casos = brasil_io.extrair_dados()
 
 
 worldometer = Worldometer_Scraper(PATH_DIR + "\\worldometer.csv")
 CNN = CNN_Scraper(CNN_DIR)
 
 # Extração Corona Feed
-#corona_feed = CoronaFeed()
-#noticias = corona_feed.extrair_dados()
-#noticias = noticias.iloc[10:14,]
-#artigos_abertos = ScraperArtigosAbertos(
-#        links=noticias['links'],
-#        titulo=noticias['titulo']
-#        )
-#artigos_abertos.salvar_texto(path_dir = PATH_DIR)
-#csv_args = {'sep': ';', 'decimal': ',', 'encoding': 'cp1252', 'index': False}
-#casos.to_csv('resultados/brasil-covid19-brasil-io.csv', **csv_args)
-#worldometer.run_scraper()
+corona_feed = CoronaFeed()
+noticias = corona_feed.extrair_dados()
+noticias = noticias.iloc[10:14,]
+artigos_abertos = ScraperArtigosAbertos(
+        links=noticias['links'],
+        titulo=noticias['titulo']
+        )
+artigos_abertos.salvar_texto(path_dir = PATH_DIR)
+csv_args = {'sep': ';', 'decimal': ',', 'encoding': 'cp1252', 'index': False}
+casos.to_csv('resultados/brasil-covid19-brasil-io.csv', **csv_args)
+worldometer.run_scraper()
 CNN._to_output()
