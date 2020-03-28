@@ -75,3 +75,4 @@ if __name__ == "__main__":
     
     brasil_io = BrasilIO()
     casos = brasil_io.extrair_dados()
+    estados = casos['state'].value_counts()
