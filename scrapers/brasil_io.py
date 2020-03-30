@@ -54,7 +54,7 @@ class BrasilIO:
         return url_data
         
         
-    def extrair_dados(self):
+    def run(self):
         def extrair_info(lista, chave):    
             info = [k[chave] for k in lista]    
             return info

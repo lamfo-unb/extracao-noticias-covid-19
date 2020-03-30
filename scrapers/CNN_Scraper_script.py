@@ -22,8 +22,11 @@ import threading
 import zipfile
 import os
 import pathlib
-
-
+try:
+    from scraper import Scraper
+except Exception:
+    from scrapers.scraper import Scraper
+    
 class Article:
     
     def __init__(self, name, date, url, content):
@@ -57,7 +60,7 @@ class Article:
             
 
 
-class CNN_Scraper():
+class CNN_Scraper(Scraper):
     timeout = 10 # should give up trying to load page after 10 seconds
     
     def __init__(self, output_path):

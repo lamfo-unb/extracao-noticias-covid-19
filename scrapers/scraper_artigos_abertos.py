@@ -121,6 +121,7 @@ class ScraperArtigosAbertos:
     @property
     def index_noticias(self):
         return self._index
+    
 
 if __name__ == "__main__":
     

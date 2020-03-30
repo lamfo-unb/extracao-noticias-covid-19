@@ -9,6 +9,10 @@ import numpy as np
 import requests
 import time
 from bs4 import BeautifulSoup
+try:
+    from scraper import Scraper
+except Exception:
+    from scrapers.scraper import Scraper
 
 class CoronaFeed:
     """

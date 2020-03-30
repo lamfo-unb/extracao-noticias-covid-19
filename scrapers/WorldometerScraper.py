@@ -8,9 +8,12 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import csv
 import urllib
-
-
-class Worldometer_Scraper:
+try:
+    from scraper import Scraper
+except Exception:
+    from scrapers.scraper import Scraper
+    
+class Worldometer_Scraper(Scraper):
 
     def __init__(self, output_path):
         self.path = output_path
@@ -21,7 +24,7 @@ class Worldometer_Scraper:
         self.world_o_meter_soup = BeautifulSoup(world_o_meter_page, "html.parser")
 
     
-    def run_scraper(self):
+    def run(self):
         first_row = self.world_o_meter_soup.find("thead")
         categories = [a.text for a in first_row.find_all("th")]
         self.table_list.append(categories)
@@ -49,8 +52,8 @@ class Worldometer_Scraper:
             writer = csv.writer(file)
             writer.writerows(self.table_list)
         print("completed!")
-        
-if __name__ == "__main__":
-    scraper = Worldometer_Scraper("worldometer.csv")
-    scraper.run_scraper()
+    
+    def get_name(self):
+        return "Worldometer Scraper"
+
     

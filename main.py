@@ -9,9 +9,10 @@ import pandas as pd
 from scrapers.brasil_io import BrasilIO
 from scrapers.corona_feed import CoronaFeed
 from scrapers.scraper_artigos_abertos import ScraperArtigosAbertos 
-from scrapers.WorldometerScraper import Worldometer_Scraper
-from scrapers.CNN.CNN_Scraper_script import CNN_Scraper
-from scrapers.CNN.CNN_Scraper_script import Article
+from scrapers.scraper import Scraper
+from scrapers.WorldOMeterScraper import Worldometer_Scraper
+from scrapers.CNN_Scraper_script import CNN_Scraper
+from ScraperManager import Scraper_Manager
 
 
 PATH_DIR = 'C:\\Users\\piphi\\Documents\\CoronaVirusScraper\\extracao-noticias-covid-19\\dados'
@@ -20,10 +21,15 @@ CNN_DIR = "C:\\Users\\piphi\\Documents\\CoronaVirusScraper\\extracao-noticias-co
 # Extração brasil.io
 brasil_io = BrasilIO()
 #casos = brasil_io.extrair_dados()
+manager =Scraper_Manager("C:\\Users\\piphi\\Documents\\CoronaVirusScraper\\extracao-noticias-covid-19\\logger.txt")
+
 
 
 worldometer = Worldometer_Scraper(PATH_DIR + "\\worldometer.csv")
 CNN = CNN_Scraper(CNN_DIR)
+
+manager.add(worldometer)
+manager.add(CNN)
 
 # Extração Corona Feed
 #corona_feed = CoronaFeed()
@@ -37,4 +43,4 @@ CNN = CNN_Scraper(CNN_DIR)
 #csv_args = {'sep': ';', 'decimal': ',', 'encoding': 'cp1252', 'index': False}
 #casos.to_csv('resultados/brasil-covid19-brasil-io.csv', **csv_args)
 #worldometer.run_scraper()
-CNN._to_output()
+manager.run_all()

@@ -1,0 +1,3 @@
+Logger File
+Began logging at: 18:25:13
+--------------------
