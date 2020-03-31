@@ -21,15 +21,21 @@ HOJE = datetime.today().strftime('%Y-%m-%d')
 PATH_DIR = 'dados'
 
 CNN_DIR = "resultados\\CNN Articles\\"
+
 # Extração brasil.io
 brasil_io = BrasilIO()
 casos = brasil_io.extrair_dados()
+
 
 
 # Extração dados Jhon Hopkins University
 djh = DataJhonHopkins()
 djh.download_data(verbose=True)
 djh.salvar_dados(path_dir='resultados/jhon_hopkins/')
+
+worldometer = Worldometer_Scraper(PATH_DIR + "\\worldometer.csv")
+CNN = CNN_Scraper(CNN_DIR)
+
 
 # Extração Corona Feed
 corona_feed = CoronaFeed()
