@@ -22,7 +22,6 @@ dependencies:
   - decorator=4.4.2
   - entrypoints=0.3
   - hyperlink=19.0.0
-  - icc_rt=2019.0.0
   - idna=2.9
   - importlib_metadata=1.5.0
   - incremental=17.5.0
@@ -69,12 +68,9 @@ dependencies:
   - python=3.7.6
   - python-dateutil=2.8.1
   - pytz=2019.3
-  - pywin32=227
   - pyzmq=18.1.1
   - queuelib=1.5.0
   - requests=2.23.0
-  - scrapy=1.6.0
-  - selenium=3.141.0
   - service_identity=18.1.0
   - setuptools=46.0.0
   - six=1.14.0
@@ -85,13 +81,9 @@ dependencies:
   - traitlets=4.3.3
   - twisted=19.10.0
   - urllib3=1.25.8
-  - vc=14.1
-  - vs2015_runtime=14.16.27012
   - w3lib=1.21.0
   - wcwidth=0.1.8
   - wheel=0.34.2
-  - win_inet_pton=1.1.0
-  - wincertstore=0.2
   - zeromq=4.3.1
   - zipp=2.2.0
   - zlib=1.2.11
@@ -99,5 +91,5 @@ dependencies:
   - zope.interface=4.7.1
   - pip:
     - google==2.0.3
-prefix: C:\Users\INFOWAY\Anaconda3\envs\scraping-noticias2
+prefix: C:\Users\INFOWAY\Anaconda3\envs\scraping-noticias
 
