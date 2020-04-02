@@ -1,5 +1,5 @@
 #! /bin/bash
-echo "Raspagem/Zipagem/Envio ao Google Drive"
+echo "Raspagem/Zipagem"
 echo "Parte 1: Formato de extrair arquivos COVID-LAMFO 2020"
 cd "pasta-a-se-inserir"
 eval "$(conda shell.bash hook)"
