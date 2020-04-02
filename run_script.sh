@@ -15,7 +15,7 @@ cd "/home/alixandro/Área de Trabalho/covi/resultados/jhon_hopkins"
 zip -r "archive-$(date +"%Y-%m-%d").zip" *
 echo "Zipado"
 
-echo "Parte 2.3: John Hopkins"
+echo "Parte 2.3: Corona Feeds"
 cd "/home/alixandro/Área de Trabalho/covi/resultados/corona_feed"
 zip -r "archive-$(date +"%Y-%m-%d").zip" *
 echo "Zipado"
