@@ -11,31 +11,21 @@ from scrapers.scraper_artigos_abertos import ScraperArtigosAbertos
 from scrapers.WorldometerScraper import Worldometer_Scraper
 from scrapers.CNN.CNN_Scraper_script import CNN_Scraper
 from scrapers.CNN.CNN_Scraper_script import Article
-from scrapers.scraper_artigos_abertos import ScraperArtigosAbertos
 from scrapers.data_jhon_hopkins import DataJhonHopkins
 from datetime import datetime 
 
 HOJE = datetime.today().strftime('%Y-%m-%d')
-
-
-PATH_DIR = 'dados'
-
-CNN_DIR = "resultados\\CNN Articles\\"
+PATH_RES = 'resultados/'
+CNN_DIR = "resultados/cnn-articles/"
 
 # Extração brasil.io
 brasil_io = BrasilIO()
 casos = brasil_io.extrair_dados()
 
-
-
 # Extração dados Jhon Hopkins University
 djh = DataJhonHopkins()
 djh.download_data(verbose=True)
 djh.salvar_dados(path_dir='resultados/jhon_hopkins/')
-
-worldometer = Worldometer_Scraper(PATH_DIR + "\\worldometer.csv")
-CNN = CNN_Scraper(CNN_DIR)
-
 
 # Extração Corona Feed
 corona_feed = CoronaFeed()
@@ -49,12 +39,11 @@ csv_args = {'sep': ';', 'decimal': ',', 'encoding': 'cp1252', 'index': False}
 casos.to_csv(f'resultados/brasil_io/{HOJE}-brasil-covid19-brasil-io.csv', **csv_args)
 
 # Extração Worldometer
-worldometer = Worldometer_Scraper(PATH_DIR + "\\worldometer.csv")
+worldometer = Worldometer_Scraper(PATH_RES + "worldometer/worldometer.csv")
 
 # Extração CNN
-CNN = CNN_Scraper(CNN_DIR)
-
 worldometer.run_scraper()
+CNN = CNN_Scraper(CNN_DIR)
 CNN.run()
 
 
