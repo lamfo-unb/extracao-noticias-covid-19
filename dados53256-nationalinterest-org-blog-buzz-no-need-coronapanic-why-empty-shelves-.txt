@@ -1,0 +1,1001 @@
+"A supply chain expert explains why we shouldn't panic.
+One in ten people in the UK has been stockpiling basic goods, according to a recent survey of retailers. You may not think you are guilty of this but by simply going to the shops more often than you would normally and putting those extra items in your trolley that you don’t need, you are adding to the problem of empty shelves. If you’re worried about supplies, here’s why you should rest assured that stocks will soon be replenished. 
+
+There is £1 billion more food sitting in people’s houses than there was three weeks ago, according to the head of the British Retail Consortium, Helen Dickinson. The panic buying of essentials like pasta, rice, tinned food and toilet roll causes a domino effect which makes others feel compelled to stock up themselves. This is not only unnecessary, it makes the problem worse for everyone and there are reports of food waste as a result of panic buying fresh food.
+Supermarkets operate with highly-calibrated supply chains that are designed to replenish shelves every day. They now face two big problems, which is leading to empty shelves. One is that they are selling so much that they do not have the time they need to get stock back onto the shelves. The second is that their entire supply chain was not ready for the sudden surge in demand and so orders are being split more thinly across stores.
+But these are short term issues. Because shops will be asking more from their factories, they will have been working around the clock to meet this demand. The sad irony is that when the backlog of orders finally comes through, the demand for nonperishable goods will have gone down because people have already stockpiled.
+This is a classic supply chain phenomenon called “the bullwhip effect”. These irregular orders in the downstream of the supply chain (the shops) have a knock-on effect upstream of the supply chain (storage facilities and suppliers).
+
+This variance then interrupts the smoothness of the supply chain process. When various links in the chain over- or underestimate the product demand, it results in worse provision overall.
+Supply chains intact
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+According to the Confederation of Paper Industries, the UK uses around 6.7 billion toilet rolls a year, of which 90% are made in the UK. The coronavirus will not cause this to change a great deal (although, with more people spending more time at home than before they will be responsible for providing their own toilet roll).
+Meanwhile, the supply chain is not broken. Warehouses are pushing out as much inventory as possible in a 24-hour period. And there’s no shortage of food. Food manufacturing has geared up to meet an increase in demand and it is up by 50%.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+The majority of supermarkets operate using a “just-in-time” approach to deliveries. This means they have a constant carousel of stock being delivered and put on shelves, to be sold the next day, based on sophisticated models of what people normally buy.
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+There is £1 billion more food sitting in people’s houses than there was three weeks ago, according to the head of the British Retail Consortium, Helen Dickinson. The panic buying of essentials like pasta, rice, tinned food and toilet roll causes a domino effect which makes others feel compelled to stock up themselves. This is not only unnecessary, it makes the problem worse for everyone and there are reports of food waste as a result of panic buying fresh food.
+Supermarkets operate with highly-calibrated supply chains that are designed to replenish shelves every day. They now face two big problems, which is leading to empty shelves. One is that they are selling so much that they do not have the time they need to get stock back onto the shelves. The second is that their entire supply chain was not ready for the sudden surge in demand and so orders are being split more thinly across stores.
+But these are short term issues. Because shops will be asking more from their factories, they will have been working around the clock to meet this demand. The sad irony is that when the backlog of orders finally comes through, the demand for nonperishable goods will have gone down because people have already stockpiled.
+This is a classic supply chain phenomenon called “the bullwhip effect”. These irregular orders in the downstream of the supply chain (the shops) have a knock-on effect upstream of the supply chain (storage facilities and suppliers).
+
+This variance then interrupts the smoothness of the supply chain process. When various links in the chain over- or underestimate the product demand, it results in worse provision overall.
+Supply chains intact
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+According to the Confederation of Paper Industries, the UK uses around 6.7 billion toilet rolls a year, of which 90% are made in the UK. The coronavirus will not cause this to change a great deal (although, with more people spending more time at home than before they will be responsible for providing their own toilet roll).
+Meanwhile, the supply chain is not broken. Warehouses are pushing out as much inventory as possible in a 24-hour period. And there’s no shortage of food. Food manufacturing has geared up to meet an increase in demand and it is up by 50%.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+The majority of supermarkets operate using a “just-in-time” approach to deliveries. This means they have a constant carousel of stock being delivered and put on shelves, to be sold the next day, based on sophisticated models of what people normally buy.
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+Supermarkets operate with highly-calibrated supply chains that are designed to replenish shelves every day. They now face two big problems, which is leading to empty shelves. One is that they are selling so much that they do not have the time they need to get stock back onto the shelves. The second is that their entire supply chain was not ready for the sudden surge in demand and so orders are being split more thinly across stores.
+But these are short term issues. Because shops will be asking more from their factories, they will have been working around the clock to meet this demand. The sad irony is that when the backlog of orders finally comes through, the demand for nonperishable goods will have gone down because people have already stockpiled.
+This is a classic supply chain phenomenon called “the bullwhip effect”. These irregular orders in the downstream of the supply chain (the shops) have a knock-on effect upstream of the supply chain (storage facilities and suppliers).
+
+This variance then interrupts the smoothness of the supply chain process. When various links in the chain over- or underestimate the product demand, it results in worse provision overall.
+Supply chains intact
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+According to the Confederation of Paper Industries, the UK uses around 6.7 billion toilet rolls a year, of which 90% are made in the UK. The coronavirus will not cause this to change a great deal (although, with more people spending more time at home than before they will be responsible for providing their own toilet roll).
+Meanwhile, the supply chain is not broken. Warehouses are pushing out as much inventory as possible in a 24-hour period. And there’s no shortage of food. Food manufacturing has geared up to meet an increase in demand and it is up by 50%.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+The majority of supermarkets operate using a “just-in-time” approach to deliveries. This means they have a constant carousel of stock being delivered and put on shelves, to be sold the next day, based on sophisticated models of what people normally buy.
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+But these are short term issues. Because shops will be asking more from their factories, they will have been working around the clock to meet this demand. The sad irony is that when the backlog of orders finally comes through, the demand for nonperishable goods will have gone down because people have already stockpiled.
+This is a classic supply chain phenomenon called “the bullwhip effect”. These irregular orders in the downstream of the supply chain (the shops) have a knock-on effect upstream of the supply chain (storage facilities and suppliers).
+
+This variance then interrupts the smoothness of the supply chain process. When various links in the chain over- or underestimate the product demand, it results in worse provision overall.
+Supply chains intact
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+According to the Confederation of Paper Industries, the UK uses around 6.7 billion toilet rolls a year, of which 90% are made in the UK. The coronavirus will not cause this to change a great deal (although, with more people spending more time at home than before they will be responsible for providing their own toilet roll).
+Meanwhile, the supply chain is not broken. Warehouses are pushing out as much inventory as possible in a 24-hour period. And there’s no shortage of food. Food manufacturing has geared up to meet an increase in demand and it is up by 50%.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+The majority of supermarkets operate using a “just-in-time” approach to deliveries. This means they have a constant carousel of stock being delivered and put on shelves, to be sold the next day, based on sophisticated models of what people normally buy.
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+This is a classic supply chain phenomenon called “the bullwhip effect”. These irregular orders in the downstream of the supply chain (the shops) have a knock-on effect upstream of the supply chain (storage facilities and suppliers).
+
+This variance then interrupts the smoothness of the supply chain process. When various links in the chain over- or underestimate the product demand, it results in worse provision overall.
+Supply chains intact
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+According to the Confederation of Paper Industries, the UK uses around 6.7 billion toilet rolls a year, of which 90% are made in the UK. The coronavirus will not cause this to change a great deal (although, with more people spending more time at home than before they will be responsible for providing their own toilet roll).
+Meanwhile, the supply chain is not broken. Warehouses are pushing out as much inventory as possible in a 24-hour period. And there’s no shortage of food. Food manufacturing has geared up to meet an increase in demand and it is up by 50%.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+The majority of supermarkets operate using a “just-in-time” approach to deliveries. This means they have a constant carousel of stock being delivered and put on shelves, to be sold the next day, based on sophisticated models of what people normally buy.
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+This variance then interrupts the smoothness of the supply chain process. When various links in the chain over- or underestimate the product demand, it results in worse provision overall.
+Supply chains intact
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+According to the Confederation of Paper Industries, the UK uses around 6.7 billion toilet rolls a year, of which 90% are made in the UK. The coronavirus will not cause this to change a great deal (although, with more people spending more time at home than before they will be responsible for providing their own toilet roll).
+Meanwhile, the supply chain is not broken. Warehouses are pushing out as much inventory as possible in a 24-hour period. And there’s no shortage of food. Food manufacturing has geared up to meet an increase in demand and it is up by 50%.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+The majority of supermarkets operate using a “just-in-time” approach to deliveries. This means they have a constant carousel of stock being delivered and put on shelves, to be sold the next day, based on sophisticated models of what people normally buy.
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+Supply chains intact
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+According to the Confederation of Paper Industries, the UK uses around 6.7 billion toilet rolls a year, of which 90% are made in the UK. The coronavirus will not cause this to change a great deal (although, with more people spending more time at home than before they will be responsible for providing their own toilet roll).
+Meanwhile, the supply chain is not broken. Warehouses are pushing out as much inventory as possible in a 24-hour period. And there’s no shortage of food. Food manufacturing has geared up to meet an increase in demand and it is up by 50%.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+The majority of supermarkets operate using a “just-in-time” approach to deliveries. This means they have a constant carousel of stock being delivered and put on shelves, to be sold the next day, based on sophisticated models of what people normally buy.
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+According to the Confederation of Paper Industries, the UK uses around 6.7 billion toilet rolls a year, of which 90% are made in the UK. The coronavirus will not cause this to change a great deal (although, with more people spending more time at home than before they will be responsible for providing their own toilet roll).
+Meanwhile, the supply chain is not broken. Warehouses are pushing out as much inventory as possible in a 24-hour period. And there’s no shortage of food. Food manufacturing has geared up to meet an increase in demand and it is up by 50%.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+The majority of supermarkets operate using a “just-in-time” approach to deliveries. This means they have a constant carousel of stock being delivered and put on shelves, to be sold the next day, based on sophisticated models of what people normally buy.
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+Meanwhile, the supply chain is not broken. Warehouses are pushing out as much inventory as possible in a 24-hour period. And there’s no shortage of food. Food manufacturing has geared up to meet an increase in demand and it is up by 50%.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+The majority of supermarkets operate using a “just-in-time” approach to deliveries. This means they have a constant carousel of stock being delivered and put on shelves, to be sold the next day, based on sophisticated models of what people normally buy.
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+The majority of supermarkets operate using a “just-in-time” approach to deliveries. This means they have a constant carousel of stock being delivered and put on shelves, to be sold the next day, based on sophisticated models of what people normally buy.
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+They do not carry excess stock because it is cheaper to store it in big out-of-town warehouses with lower rents. Big retailers tend to restock overnight from their own distribution centres. Within two days, they can get more product from the manufacturer to restock their distribution centre.
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+The food supply chain is particularly resilient for a number of reasons. It is built to withstand various fluctuations in circumstances – particularly the weather – which can have a big effect on food storage and distribution, and the impact this has on a wide range of food.
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+Contingency planning
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_3'); } ); 
+//--><!]]>
+
+
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+With cafes and restaurants forced to close, there are also a number of delivery services springing up to redirect their supplies to people’s homes. There is also scope for supermarkets to team up with cafes and restaurants, whether it’s to use their storage capacity or logistics and technology.
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+If things get really bad, supermarkets can also make their lives easier by limiting their product offerings. For example, there is no need to make 30 different kinds of sausages or 50 types of bread. We may not see the same levels of choice that we are accustomed to, but there is no need to panic about empty shelves in the long run.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_4'); }); 
+//--><!]]>
+
+
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+The government can help supermarkets meet the sudden surge in demand by facilitating supermarkets, charities and other food services, to work together by proving a platform to share information and fund initial collaborations. This will help them to share resources, distribution depots, delivery vans and staff, as well as coordinate stock levels across the country. Further, supermarkets should relax specifications for fruit and vegetables in an effort to get more fresh produce onto shelves. For example, ugly fruit and vegetables, such as wonky carrots or bent cucumbers, should be acceptable by both consumers and suppliers.
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+The significant increase in online shopping has led to much higher demand for delivery trucks and drivers. Transport regulators can help by loosening trucking rules for food and other essentials. For example, there are a number of restrictions in cities like London to make roads safer for other users along with environmental protections. These could be relaxed to help speed up deliveries.
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_5'); }); 
+//--><!]]>
+
+
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+Ultimately, consumers are in the strongest position to help by trusting the supply chains that are in place to keep delivering essentials to stores. By shopping responsibly and thinking of others, we will play a big part in ensuring everyone can buy what they need.
+
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_10'); }); 
+//--><!]]>
+
+
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+Manoj Dora, Reader in Operations & Supply Chain Management, Brunel University London
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_7'); }); 
+//--><!]]>
+
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+Image: Reuters
+Image: Reuters
+View the discussion thread.
+© Copyright 2020 Center for the National Interest All Rights Reserved"
