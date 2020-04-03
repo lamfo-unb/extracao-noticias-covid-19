@@ -141,10 +141,14 @@ dmypy.json
 cython_debug/
 
 # csv files
+*.txt
+*.csv
 resultados/basil_io/*.csv
 resultados/corona_feed/*.txt
 resultados/corona_feed/*.csv
 resultados/jhon_hopkins/*.csv
+resultados/cnn-articles/*.txt
+resultados/cnn-articles/*.csv
 
 #  outros files
 .google-cookie
