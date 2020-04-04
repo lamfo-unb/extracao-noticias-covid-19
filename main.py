@@ -4,13 +4,13 @@ Created on Tue Mar 24 14:21:26 2020
 
 @author: INFOWAY
 """
-import pandas as pd
+#import pandas as pd
 from scrapers.brasil_io import BrasilIO
 from scrapers.corona_feed import CoronaFeed
 from scrapers.scraper_artigos_abertos import ScraperArtigosAbertos 
 from scrapers.WorldometerScraper import Worldometer_Scraper
-from scrapers.CNN.CNN_Scraper_script import CNN_Scraper
-from scrapers.CNN.CNN_Scraper_script import Article
+#from scrapers.CNN.CNN_Scraper_script import CNN_Scraper
+#from scrapers.CNN.CNN_Scraper_script import Article
 from scrapers.data_jhon_hopkins import DataJhonHopkins
 from datetime import datetime 
 
@@ -43,7 +43,5 @@ worldometer = Worldometer_Scraper(PATH_RES + "worldometer/worldometer.csv")
 
 # Extração CNN
 worldometer.run_scraper()
-CNN = CNN_Scraper(CNN_DIR)
-CNN.run()
-
-
+#CNN = CNN_Scraper(CNN_DIR)
+#CNN.run()
