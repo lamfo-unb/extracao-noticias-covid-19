@@ -7,13 +7,13 @@ Created on Tue Mar 24 14:21:26 2020
 #import pandas as pd
 from scrapers.brasil_io import BrasilIO
 from scrapers.corona_feed import CoronaFeed
-from scrapers.scraper_artigos_abertos import ScraperArtigosAbertos 
+from scrapers.scraper_artigos_abertos import ScraperArtigosAbertos
 from scrapers.WorldometerScraper import Worldometer_Scraper
 #from scrapers.CNN.CNN_Scraper_script import CNN_Scraper
 #from scrapers.CNN.CNN_Scraper_script import Article
 from scrapers.data_jhon_hopkins import DataJhonHopkins
 from helpers.zipar_arquivos import ZiparArquivos
-from datetime import datetime 
+from datetime import datetime
 
 HOJE = datetime.today().strftime('%Y-%m-%d')
 PATH_RES = 'resultados/'
@@ -32,7 +32,7 @@ print('Extraindo dados de Jhon Hopkins University')
 print('-'*45)
 djh = DataJhonHopkins()
 djh.download_data(verbose=True)
-djh.salvar_dados(path_dir='resultados/jhon_hopkins/')
+djh.salvar_dados(path_dir='resultados/jhon-hopkins/')
 
 # Extração Corona Feed
 print('-'*45)
@@ -44,9 +44,9 @@ artigos_abertos = ScraperArtigosAbertos(
         links=noticias['links'],
         titulo=noticias['titulo']
         )
-artigos_abertos.salvar_texto(path_dir = 'resultados/corona_feed/')
+artigos_abertos.salvar_texto(path_dir = 'resultados/corona-feed/')
 csv_args = {'sep': ';', 'decimal': ',', 'encoding': 'cp1252', 'index': False}
-casos.to_csv(f'resultados/brasil_io/{HOJE}-brasil-covid19-brasil-io.csv', **csv_args)
+casos.to_csv(f'resultados/brasil-io/{HOJE}-brasil-covid19-brasil-io.csv', **csv_args)
 
 # Extração Worldometer
 print('-'*45)
