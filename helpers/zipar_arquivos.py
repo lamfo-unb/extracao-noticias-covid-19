@@ -61,6 +61,6 @@ if __name__ == '__main__':
     PATH_DIR = 'C:/Users/INFOWAY/projetos/extracao-noticias-covid-19/'
 
     hoje = datetime.today().strftime('%Y-%m-%d')
-    zipar_google = ZiparArquivos(PATH_DIR+'resultados/google-copia/', f'{hoje}-google.zip')
+    zipar_google = ZiparArquivos(PATH_DIR+'resultados/google/', f'{hoje}-google.zip')
     zipar_google.zipar()
     zipar_google.remove_files()    
