@@ -86,4 +86,7 @@ class BrasilIO(Scraper):
 if __name__ == "__main__":
     
     brasil_io = BrasilIO()
-    brasil_io.run
+    brasil_io.run()
+    casos = brasil_io._extrair_dados()
+    estados = casos['state'].value_counts()
+
