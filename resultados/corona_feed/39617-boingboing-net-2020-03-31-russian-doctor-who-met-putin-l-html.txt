@@ -1,0 +1,303 @@
+"“Everything is okay,” the RIA news agency reports. Seems legit.
+
+The doctor who hosted Russian President Vladimir Putin's tour of the main coronavirus hospital in Moscow last week has himself been diagnosed with the virus, the Rossiya 24 state TV channel reported on Tuesday. Putin was wearing quite the PPE outfit when he toured the facility. No word on his viral status.
+From Reuters:
+Putin visited the Kommunarka hospital last Tuesday where he chatted to the doctor, Denis Protsenko. Neither of them were wearing protective equipment during their conversation, TV footage from the visit showed.
+The Kremlin said on Tuesday that Putin was being regularly tested for coronavirus and that “everything is okay,” the RIA news agency reported.
+IMAGE: Russian president Vladimir Putin wearing protective gear visits a hospital where patients infected with the Covid-19 novel coronavirus are being treated in the settlement of Kommunarka in Moscow. Photograph: Alexey Druzhinin/Sputnik
+During a call-in to ‘Fox & Friends’ that lasted an hour, Trump says next call is with Putin.
+READ THE REST
+During a call-in to ‘Fox & Friends’ that lasted an hour, Trump says next call is with Putin.
+• ‘Fronton’ is the FSB’s IoT botnet project
+READ THE REST
+• ‘Fronton’ is the FSB’s IoT botnet project
+The world’s busy shitting its pants over an impending pandemic, oil production slap-fights and the arse dropping out of the stock market right into the lap of a recession that’s just a-waiting in the wings. So, Russia, being Russia, does what Russia does best: fucks with people. Earlier today, I received an emailed statement from […]
+READ THE REST
+The world’s busy shitting its pants over an impending pandemic, oil production slap-fights and the arse dropping out of the stock market right into the lap of a recession that’s just a-waiting in the wings. So, Russia, being Russia, does what Russia does best: fucks with people. Earlier today, I received an emailed statement from […]
+That home office may be your office for a while. These accessories can bring it to life.
+
+There are definite benefits to the whole work from home thing. The commute is a breeze. The dress code is supremely casual. And your boss has to work a lot harder to actually find you. Despite the joys, there are still some clear downsides to the whole home office thing as well. Job focus can […]
+READ THE REST
+
+
+Need help mellowing out lately? These meditation apps might calm you down
+
+If you’re routinely prone to being stressed out, hurried or generally made out-of-sorts by the hectic pace of the world and life changes, then…yikes. We don’t envy what you must be going through these days. Right about now, even the most zen and centered among us are bound to be feeling some level of anxiety […]
+READ THE REST
+
+
+Clean up and class up your bathroom with this sensor-driven, hands-free soap dispenser
+
+So…exactly how many times a day are you singing Happy Birthday to your sink? Unless you’re among the most germaphobic among us, it’s unlikely you ever thought the simple act of handwashing would start to take on such a central role in our daily lives. Of course, with all the touching and such, bar soap […]
+READ THE REST
+There are definite benefits to the whole work from home thing. The commute is a breeze. The dress code is supremely casual. And your boss has to work a lot harder to actually find you. Despite the joys, there are still some clear downsides to the whole home office thing as well. Job focus can […]
+READ THE REST
+There are definite benefits to the whole work from home thing. The commute is a breeze. The dress code is supremely casual. And your boss has to work a lot harder to actually find you. Despite the joys, there are still some clear downsides to the whole home office thing as well. Job focus can […]
+If you’re routinely prone to being stressed out, hurried or generally made out-of-sorts by the hectic pace of the world and life changes, then…yikes. We don’t envy what you must be going through these days. Right about now, even the most zen and centered among us are bound to be feeling some level of anxiety […]
+READ THE REST
+If you’re routinely prone to being stressed out, hurried or generally made out-of-sorts by the hectic pace of the world and life changes, then…yikes. We don’t envy what you must be going through these days. Right about now, even the most zen and centered among us are bound to be feeling some level of anxiety […]
+So…exactly how many times a day are you singing Happy Birthday to your sink? Unless you’re among the most germaphobic among us, it’s unlikely you ever thought the simple act of handwashing would start to take on such a central role in our daily lives. Of course, with all the touching and such, bar soap […]
+READ THE REST
+So…exactly how many times a day are you singing Happy Birthday to your sink? Unless you’re among the most germaphobic among us, it’s unlikely you ever thought the simple act of handwashing would start to take on such a central role in our daily lives. Of course, with all the touching and such, bar soap […]
+Read the rules you agree to by using this website in our Terms of Service.
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+Boing Boing uses cookies and analytics trackers, and is supported by advertising, merchandise sales and affiliate links. Read about what we do with the data we gather in our Privacy Policy.
+Who will be eaten first? Our forum rules are detailed in the Community Guidelines.
+Boing Boing is published under a Creative Commons license except where otherwise noted.
+
+
+
+
+ Mark Frauenfelder
+ David Pescovitz
+ Xeni Jardin
+ Rob Beschizza
+ Carla SinclairEditors
+Jason WeisbergerPublisher
+Ken SniderSysadmin
+ About Us
+ Contact Us
+ Advertise
+ Forums
+ Shop
+ Report a Bad Ad
+ Shop Support
+
+
+
+
+
+
+
+
+.has-text-align-justify{text-align:justify;}
+
+
+
+
+
+/* <![CDATA[ */
+var wpcf7 = {""apiSettings"":{""root"":""https:\/\/boingboing.net\/wp-json\/contact-form-7\/v1"",""namespace"":""contact-form-7\/v1""}};
+/* ]]> */
+
+
+
+
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6LfQ94EUAAAAAE_uAfWqoJRPw1aQFzqdWFsfFTBO',
+	{""homepage"":""homepage"",""contactform"":""contactform""}
+);
+
+
+
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.3',blog:'87954168',post:'776186',tz:'-7',srv:'boingboing.net'} ]);
+	_stq.push([ 'clickTrackerInit', '87954168', '776186' ]);
+
+jQuery(function(){jQuery('#sidebar').height(jQuery('#features').height())});
+
+
+
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == ""https:"" ? ""https://secure"" : ""http://edge"") + "".quantserve.com/quant.js"";
+elem.async = true;
+elem.type = ""text/javascript"";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:""p-QX6JKE-6M4Jf7""
+});
+
+
+
+
+
+
+
+
+
+function clickTrack(url, action, label){
+    if(url && action && label){
+        clickedURL = url;
+        if(typeof(event) != ""undefined"") event.returnValue = false;
+        ga('send', 'event', {
+            'eventCategory' : 'UI Click',
+            'eventAction'   : action,
+            'eventLabel'    : label,
+            'hitCallback'   : function () {
+                document.location = clickedURL;
+            }
+        });
+        return false;
+    }
+    return true;
+}
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3839311-1', 'auto');
+
+      ga('set', 'dimension1', 'Xeni Jardin');
+    ga('send', 'event', 'Permalink View', 'Author', '');
+
+                ga('send', 'event', 'Permalink View', 'Category', 'Post');
+                ga('set', 'dimension2', 'post ');
+      
+                ga('send', 'event', 'Permalink View', 'Tag', 'coronavirus');
+                      ga('send', 'event', 'Permalink View', 'Tag', 'COVID-19');
+                      ga('send', 'event', 'Permalink View', 'Tag', 'covid19');
+                      ga('send', 'event', 'Permalink View', 'Tag', 'oops');
+                      ga('send', 'event', 'Permalink View', 'Tag', 'pandemic');
+                      ga('send', 'event', 'Permalink View', 'Tag', 'putin');
+                      ga('send', 'event', 'Permalink View', 'Tag', 'russia');
+                      ga('send', 'event', 'Permalink View', 'Tag', 'uh oh');
+                      ga('send', 'event', 'Permalink View', 'Tag', 'vladimir putin');
+                ga('set', 'dimension3', 'coronavirus covid-19 covid19 oops pandemic putin russia uh-oh vladimir-putin ');
+      
+  
+  ga('send', 'pageview');
+
+
+
+
+
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7518287"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+
+
+
+
+		function showmenu() {
+			var currentHeight = document.getElementById(""menuitems"").style.height;
+			if (currentHeight == ""250px"") {
+				document.getElementById(""menuitems"").style.height = ""0px"";
+			} else {
+				document.getElementById(""menuitems"").style.height = ""250px"";
+			}
+		}
+
+
+
+    function createCookie(name,value,days) {
+    var expires;
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        expires = ""; expires=""+date.toGMTString();
+    }
+    else {
+        expires = """";
+    }
+    document.cookie = name+""=""+value+expires+""; path=/"";
+}
+
+function readCookie(name) {
+    var nameEQ = name + ""="";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+
+var BNGEnqueueMC = readCookie('BNGEnqueueMC');
+
+if( 'yes' === BNGEnqueueMC ) {
+    // Embed scripts
+    var mc1 = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0];
+    mc1.src = '//downloads.mailchimp.com/js/signup-forms/popup/embed.js';
+    mc1.setAttribute('data-dojo-config', 'usePlainJson: true, isDebug: false');
+    el.parentNode.insertBefore(mc1, el);
+    var mcInterval = setInterval(function(){
+        if( 'function' === typeof PopupSignupForm) {
+          require([""mojo/signup-forms/Loader""], function(L) { L.start({""baseUrl"":""mc.us2.list-manage.com"",""uuid"":""0e91f8e7df61da4bff2bd9b1f"",""lid"":""8c5d27370d""}) });
+          clearInterval(mcInterval);
+        }
+    }, 250);
+} else {
+    createCookie('BNGEnqueueMC', 'yes', 30);
+}
+Read the rules you agree to by using this website in our Terms of Service.
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+Boing Boing uses cookies and analytics trackers, and is supported by advertising, merchandise sales and affiliate links. Read about what we do with the data we gather in our Privacy Policy.
+Who will be eaten first? Our forum rules are detailed in the Community Guidelines.
+Boing Boing is published under a Creative Commons license except where otherwise noted.
+Mark Frauenfelder
+ David Pescovitz
+ Xeni Jardin
+ Rob Beschizza
+ Carla SinclairEditors
+Jason WeisbergerPublisher
+Ken SniderSysadmin
+About Us
+ Contact Us
+ Advertise
+ Forums
+ Shop
+ Report a Bad Ad
+ Shop Support"

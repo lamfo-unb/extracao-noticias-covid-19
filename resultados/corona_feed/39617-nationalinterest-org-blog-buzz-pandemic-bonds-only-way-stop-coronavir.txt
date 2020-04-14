@@ -1,0 +1,28 @@
+"An alternative to insurance.
+Countries around the world are taking unprecedented action to stem financial collapse due to COVID-19. Governments are acting as insurers of last resort, providing liquidity to both individuals and corporations in dire straits.
+In these perilous times, the insurance sector itself will also be paying out claims, whether it’s to people who have experienced damage to life or property or to businesses and even to sovereign countries.
+Insurance companies are designed to bring order and stability to precarious financial situations and they have the wherewithal to do so.
+Catastrophe bonds
+Like other financial players that have embraced innovation in recent years, insurers too have developed novel tools and products. One such innovation is catastrophe bonds.
+A catastrophe bond provides the issuer (usually either an insurer or a reinsurer) with financial protection in case of a major catastrophe. Most catastrophe bonds cover extreme natural events such as hurricanes or earthquakes, but some bonds cover pandemics like the one the world is facing now.
+In effect, when employing catastrophe bonds, insurers can access capital from large asset owners such as pension funds and other institutional investors. Insurers need this extra layer of protection for themselves, because catastrophes typically hit a region very abruptly.
+This means that when a major disaster strikes, large amounts of money need to be disbursed suddenly, threatening the insurer with insolvency. Asset owners are willing to provide this coverage — for a premium, often hefty — because it can be an effective diversification strategy: earthquakes, hurricanes and pandemics are essentially unrelated to global economic trends.
+Catastrophe bonds are very specific in terms of the coverage they provide. Like other insurance products, they are binding contracts that specify exactly what perils are covered and when the funds are released or “triggered.”
+For instance, a catastrophe bond can be triggered if an earthquake of a certain magnitude occurs in a specific region on the U.S. West Coast within three years.
+Alternatively, a bond might be triggered to recoup some of the insurance payouts following the catastrophe, but only if they exceed a certain pre-defined dollar threshold. As in regular reinsurance, catastrophe bonds provide payouts in tranches, for example to cover the losses incurred by the issuer after the first $2 billion in losses, up until $2.3 billion in losses, following a specific extreme event.
+To date, 1,069 distinct bonds within 648 offerings have been issued since the first one in 1997.
+The first pandemic bond was issued in 2003, when Swiss Re floated a US$400 million offering to provide coverage against extreme mortality events such as war, terrorism, pandemics or nuclear attack.
+The bond would trigger if the mortality index (which measures annual general mortality in five countries, the U.S., the United Kingdom, France, Switzerland and Italy) exceeded 130 per cent of its baseline due to any of these scenarios.
+Since then, a total of 27 additional catastrophe bonds have been issued with a pandemic component. To date, none of them have been triggered.
+Who benefits when catastrophe strikes?
+The use of catastrophe bonds, perhaps unsurprisingly, is controversial. One critique emphasizes the huge uncertainty inherent in attempting to quantify what are, by definition, very rare, unpredictable events.
+Others have noted that catastrophe modelling is problematic in that it harnesses tacit knowledge shared within closed, opaque communities. In our research, we discovered that catastrophe models don’t function any better than guesswork, and seem to have become popular mainly because of the absence of high-return options in more traditional stocks and corporate bonds.
+This controversy seems to be especially acute for pandemic bonds. For example, opining about the latest bond with a pandemic component — the Pandemic Emergency Financing Facility (PEF) sponsored by the World Bank — Lawrence Summers, the former U.S. treasury secretary, went so far as to call it is “goofy” and an “embarrassing mistake.” After reading the 386-page prospectus, we agree.
+That’s because, from a public welfare perspective — as we are all learning now — the speediness of response is crucial. The PEF states clearly in the prospectus that its purpose is “to help prevent rare, high-severity disease outbreaks from becoming pandemics.” This means that it should trigger and pay out before a disease like COVID-19 becomes a pandemic, not after.
+In conclusion, some healthy skepticism is warranted when considering the social value of catastrophe bonds.
+Conceptually, they can be a useful financial tool, but the devil is in the details: What exactly is written in the fine print? How accurately is the risk modelled? How big are the payouts to investors? How quickly are the funds disbursed?
+A bond triggered by a World Health Organization declaration of a pandemic, with immediate payouts and large sums of money available, would be a bond with high social value. A bond that provides too little money too late — or none at all — is just financialization run amok.
+This article by Dror Etzion, Bernard Forgues, and Emmanuel Kypraios first appeared in The Conversation.
+Image: An empty toilet paper aisle is seen at Ralphs Kroger grocery store after California issued a stay-at-home order in an effort to prevent the spread of coronavirus disease (COVID-19), in Los Angeles, California, U.S., March 30, 2020. REUTERS/Lucy Nicholson
+View the discussion thread.
+© Copyright 2020 Center for the National Interest All Rights Reserved"

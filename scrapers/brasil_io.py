@@ -8,9 +8,14 @@ Created on Mon Mar 23 22:12:03 2020
 import pandas as pd
 import requests
 import time
+from datetime import datetime
 
+try:
+    from scraper import Scraper
+except Exception:
+    from scrapers.scraper import Scraper
 
-class BrasilIO:
+class BrasilIO(Scraper):
     """
     Download dados covid-19 no Brasil de brasil.io
     """
@@ -54,7 +59,7 @@ class BrasilIO:
         return url_data
         
         
-    def run(self):
+    def _extrair_dados(self):
         def extrair_info(lista, chave):    
             info = [k[chave] for k in lista]    
             return info
@@ -69,9 +74,16 @@ class BrasilIO:
         dados = {chave: extrair_info(data, chave) for chave in chaves}
         
         return pd.DataFrame(dados)
+    def run(self):
+        HOJE = datetime.today().strftime('%Y-%m-%d')
+        casos = self._extrair_dados()
+        csv_args = {'sep': ';', 'decimal': ',', 'encoding': 'cp1252', 'index': False}
+        casos.to_csv(f'resultados/brasil_io/{HOJE}-brasil-covid19-brasil-io.csv', **csv_args)
+    def get_name(self):
+        return "Brasil IO Scraper"
     
 
 if __name__ == "__main__":
     
     brasil_io = BrasilIO()
-    casos = brasil_io.extrair_dados()
+    brasil_io.run

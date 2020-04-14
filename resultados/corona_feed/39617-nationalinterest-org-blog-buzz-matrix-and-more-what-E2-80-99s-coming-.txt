@@ -1,0 +1,254 @@
+"Social distance and chill.
+With massive amounts of people home during the day for coronavirus, and with both extra time on their hands and the ability to stream while they work, it’s game time for Netflix. And once you’re through with Tiger King—and all those shows you’ve been behind on for months or years—a whole new cache of stuff is arriving on the service in April.  
+
+Here are some of the most anticipated movies and shows headed to Netflix next month: 
+-The Matrix, The Matrix Reloaded and The Matrix Revolutions (April 1.) The first Matrix movie revolutionized action filmmaking when it arrived in 1999, leading some curious people to ask whether we’re living in a simulation. The two sequels, both from 2003, are somewhat less regarded, although they have their fans. All three will hit Netflix Thursday, amid the news that a fourth Matrix film is not only being made, but completed photography before the coronavirus shutdowns. 
+-Taxi Driver (April 1.) Netflix is sort of notorious for not featuring very many classic movies from before 1980, but at the start of the month it will launch Martin Scorsese’s 1976 masterpiece of grimy New York, starring Robert De Niro as a Vietnam vet cab driver who snaps violently amid the lawless Manhattan of the ’70s. For no other reason, watch the film in order to see exactly where last year’s Joker movie lifted just about every one of its ideas. 
+-Coffee and Kareem (April 3.) This Netflix original movie is the sort of high concept comedy that Touchstone Pictures might have put out in 1988. Ed Helms stars as a cop who’s paired with his girlfriend’s 12-year-old son (Terrence Little Gardening) against a group of criminals. The movie co-stars Taraji P. Henson and Betty Gilpin, star of the Netflix series GLOW. 
+
+-The Big Show Show (April 6.) A co-production of Netflix and WWE Studios, The Big Show Show is a sitcom about a large professional wrestler (WWE veteran Paul “The Big Show” Wight) living in Florida with his wife and daughters. The show features several co-stars who are much shorter than the star, among them Steve Urkel himself (Jaleel White) and Allison Munn. 
+-Tigertail (April 10.) Another tiger show on Netflix? Not quite. The directorial debut of longtime TV comedy writer Alan Yang (Parks & Recreation, Master of None), Tigertail is a movie about a man named Grover (Tzi Ma) who emigrates to America from Taiwan, and later goes on to raise a daughter. 
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+-Hail, Caesar (April 16.) Joel and Ethan Coen’s most recent movie, The Ballad of Buster Scruggs, was made for Netflix, and now their movie before that is coming to the streaming service as well. A sparkling satire of Hollywood set in the 1930s, the 2016 film stars an all-star cast that includes Josh Brolin, Scarlett Johansson, George Clooney, Ralph Fiennes, Tilda Swinton and many more. Would that it were so simple… 
+-Black AF (April 17.) The first TV series to emerge from the massive deal Netflix gave to Black-ish creator Kenya Barris, Black AF stars Barris himself, in a mockumentary version of his life. Like Black-ish, the show features a large African-American family; Rashida Jones plays Barris’ wife. 
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+-Sergio (April 17.) This original movie, acquired at Sundance in January, is a biopic about the late U.N. diplomat Sérgio Vieira de Mello, played by Wagner Moura. The film also stars Knives Out’s Ana de Armas, Garret Dillahunt and Bradley Whitford, who plays Paul Bremer. The film’s director, Greg Barker, previously made a 2009 documentary, also titled Sergio, which was based on a biography by diplomat Samantha Power. 
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+Here are some of the most anticipated movies and shows headed to Netflix next month: 
+-The Matrix, The Matrix Reloaded and The Matrix Revolutions (April 1.) The first Matrix movie revolutionized action filmmaking when it arrived in 1999, leading some curious people to ask whether we’re living in a simulation. The two sequels, both from 2003, are somewhat less regarded, although they have their fans. All three will hit Netflix Thursday, amid the news that a fourth Matrix film is not only being made, but completed photography before the coronavirus shutdowns. 
+-Taxi Driver (April 1.) Netflix is sort of notorious for not featuring very many classic movies from before 1980, but at the start of the month it will launch Martin Scorsese’s 1976 masterpiece of grimy New York, starring Robert De Niro as a Vietnam vet cab driver who snaps violently amid the lawless Manhattan of the ’70s. For no other reason, watch the film in order to see exactly where last year’s Joker movie lifted just about every one of its ideas. 
+-Coffee and Kareem (April 3.) This Netflix original movie is the sort of high concept comedy that Touchstone Pictures might have put out in 1988. Ed Helms stars as a cop who’s paired with his girlfriend’s 12-year-old son (Terrence Little Gardening) against a group of criminals. The movie co-stars Taraji P. Henson and Betty Gilpin, star of the Netflix series GLOW. 
+
+-The Big Show Show (April 6.) A co-production of Netflix and WWE Studios, The Big Show Show is a sitcom about a large professional wrestler (WWE veteran Paul “The Big Show” Wight) living in Florida with his wife and daughters. The show features several co-stars who are much shorter than the star, among them Steve Urkel himself (Jaleel White) and Allison Munn. 
+-Tigertail (April 10.) Another tiger show on Netflix? Not quite. The directorial debut of longtime TV comedy writer Alan Yang (Parks & Recreation, Master of None), Tigertail is a movie about a man named Grover (Tzi Ma) who emigrates to America from Taiwan, and later goes on to raise a daughter. 
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+-Hail, Caesar (April 16.) Joel and Ethan Coen’s most recent movie, The Ballad of Buster Scruggs, was made for Netflix, and now their movie before that is coming to the streaming service as well. A sparkling satire of Hollywood set in the 1930s, the 2016 film stars an all-star cast that includes Josh Brolin, Scarlett Johansson, George Clooney, Ralph Fiennes, Tilda Swinton and many more. Would that it were so simple… 
+-Black AF (April 17.) The first TV series to emerge from the massive deal Netflix gave to Black-ish creator Kenya Barris, Black AF stars Barris himself, in a mockumentary version of his life. Like Black-ish, the show features a large African-American family; Rashida Jones plays Barris’ wife. 
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+-Sergio (April 17.) This original movie, acquired at Sundance in January, is a biopic about the late U.N. diplomat Sérgio Vieira de Mello, played by Wagner Moura. The film also stars Knives Out’s Ana de Armas, Garret Dillahunt and Bradley Whitford, who plays Paul Bremer. The film’s director, Greg Barker, previously made a 2009 documentary, also titled Sergio, which was based on a biography by diplomat Samantha Power. 
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+-The Matrix, The Matrix Reloaded and The Matrix Revolutions (April 1.) The first Matrix movie revolutionized action filmmaking when it arrived in 1999, leading some curious people to ask whether we’re living in a simulation. The two sequels, both from 2003, are somewhat less regarded, although they have their fans. All three will hit Netflix Thursday, amid the news that a fourth Matrix film is not only being made, but completed photography before the coronavirus shutdowns. 
+-Taxi Driver (April 1.) Netflix is sort of notorious for not featuring very many classic movies from before 1980, but at the start of the month it will launch Martin Scorsese’s 1976 masterpiece of grimy New York, starring Robert De Niro as a Vietnam vet cab driver who snaps violently amid the lawless Manhattan of the ’70s. For no other reason, watch the film in order to see exactly where last year’s Joker movie lifted just about every one of its ideas. 
+-Coffee and Kareem (April 3.) This Netflix original movie is the sort of high concept comedy that Touchstone Pictures might have put out in 1988. Ed Helms stars as a cop who’s paired with his girlfriend’s 12-year-old son (Terrence Little Gardening) against a group of criminals. The movie co-stars Taraji P. Henson and Betty Gilpin, star of the Netflix series GLOW. 
+
+-The Big Show Show (April 6.) A co-production of Netflix and WWE Studios, The Big Show Show is a sitcom about a large professional wrestler (WWE veteran Paul “The Big Show” Wight) living in Florida with his wife and daughters. The show features several co-stars who are much shorter than the star, among them Steve Urkel himself (Jaleel White) and Allison Munn. 
+-Tigertail (April 10.) Another tiger show on Netflix? Not quite. The directorial debut of longtime TV comedy writer Alan Yang (Parks & Recreation, Master of None), Tigertail is a movie about a man named Grover (Tzi Ma) who emigrates to America from Taiwan, and later goes on to raise a daughter. 
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+-Hail, Caesar (April 16.) Joel and Ethan Coen’s most recent movie, The Ballad of Buster Scruggs, was made for Netflix, and now their movie before that is coming to the streaming service as well. A sparkling satire of Hollywood set in the 1930s, the 2016 film stars an all-star cast that includes Josh Brolin, Scarlett Johansson, George Clooney, Ralph Fiennes, Tilda Swinton and many more. Would that it were so simple… 
+-Black AF (April 17.) The first TV series to emerge from the massive deal Netflix gave to Black-ish creator Kenya Barris, Black AF stars Barris himself, in a mockumentary version of his life. Like Black-ish, the show features a large African-American family; Rashida Jones plays Barris’ wife. 
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+-Sergio (April 17.) This original movie, acquired at Sundance in January, is a biopic about the late U.N. diplomat Sérgio Vieira de Mello, played by Wagner Moura. The film also stars Knives Out’s Ana de Armas, Garret Dillahunt and Bradley Whitford, who plays Paul Bremer. The film’s director, Greg Barker, previously made a 2009 documentary, also titled Sergio, which was based on a biography by diplomat Samantha Power. 
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+-Taxi Driver (April 1.) Netflix is sort of notorious for not featuring very many classic movies from before 1980, but at the start of the month it will launch Martin Scorsese’s 1976 masterpiece of grimy New York, starring Robert De Niro as a Vietnam vet cab driver who snaps violently amid the lawless Manhattan of the ’70s. For no other reason, watch the film in order to see exactly where last year’s Joker movie lifted just about every one of its ideas. 
+-Coffee and Kareem (April 3.) This Netflix original movie is the sort of high concept comedy that Touchstone Pictures might have put out in 1988. Ed Helms stars as a cop who’s paired with his girlfriend’s 12-year-old son (Terrence Little Gardening) against a group of criminals. The movie co-stars Taraji P. Henson and Betty Gilpin, star of the Netflix series GLOW. 
+
+-The Big Show Show (April 6.) A co-production of Netflix and WWE Studios, The Big Show Show is a sitcom about a large professional wrestler (WWE veteran Paul “The Big Show” Wight) living in Florida with his wife and daughters. The show features several co-stars who are much shorter than the star, among them Steve Urkel himself (Jaleel White) and Allison Munn. 
+-Tigertail (April 10.) Another tiger show on Netflix? Not quite. The directorial debut of longtime TV comedy writer Alan Yang (Parks & Recreation, Master of None), Tigertail is a movie about a man named Grover (Tzi Ma) who emigrates to America from Taiwan, and later goes on to raise a daughter. 
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+-Hail, Caesar (April 16.) Joel and Ethan Coen’s most recent movie, The Ballad of Buster Scruggs, was made for Netflix, and now their movie before that is coming to the streaming service as well. A sparkling satire of Hollywood set in the 1930s, the 2016 film stars an all-star cast that includes Josh Brolin, Scarlett Johansson, George Clooney, Ralph Fiennes, Tilda Swinton and many more. Would that it were so simple… 
+-Black AF (April 17.) The first TV series to emerge from the massive deal Netflix gave to Black-ish creator Kenya Barris, Black AF stars Barris himself, in a mockumentary version of his life. Like Black-ish, the show features a large African-American family; Rashida Jones plays Barris’ wife. 
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+-Sergio (April 17.) This original movie, acquired at Sundance in January, is a biopic about the late U.N. diplomat Sérgio Vieira de Mello, played by Wagner Moura. The film also stars Knives Out’s Ana de Armas, Garret Dillahunt and Bradley Whitford, who plays Paul Bremer. The film’s director, Greg Barker, previously made a 2009 documentary, also titled Sergio, which was based on a biography by diplomat Samantha Power. 
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+-Coffee and Kareem (April 3.) This Netflix original movie is the sort of high concept comedy that Touchstone Pictures might have put out in 1988. Ed Helms stars as a cop who’s paired with his girlfriend’s 12-year-old son (Terrence Little Gardening) against a group of criminals. The movie co-stars Taraji P. Henson and Betty Gilpin, star of the Netflix series GLOW. 
+
+-The Big Show Show (April 6.) A co-production of Netflix and WWE Studios, The Big Show Show is a sitcom about a large professional wrestler (WWE veteran Paul “The Big Show” Wight) living in Florida with his wife and daughters. The show features several co-stars who are much shorter than the star, among them Steve Urkel himself (Jaleel White) and Allison Munn. 
+-Tigertail (April 10.) Another tiger show on Netflix? Not quite. The directorial debut of longtime TV comedy writer Alan Yang (Parks & Recreation, Master of None), Tigertail is a movie about a man named Grover (Tzi Ma) who emigrates to America from Taiwan, and later goes on to raise a daughter. 
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+-Hail, Caesar (April 16.) Joel and Ethan Coen’s most recent movie, The Ballad of Buster Scruggs, was made for Netflix, and now their movie before that is coming to the streaming service as well. A sparkling satire of Hollywood set in the 1930s, the 2016 film stars an all-star cast that includes Josh Brolin, Scarlett Johansson, George Clooney, Ralph Fiennes, Tilda Swinton and many more. Would that it were so simple… 
+-Black AF (April 17.) The first TV series to emerge from the massive deal Netflix gave to Black-ish creator Kenya Barris, Black AF stars Barris himself, in a mockumentary version of his life. Like Black-ish, the show features a large African-American family; Rashida Jones plays Barris’ wife. 
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+-Sergio (April 17.) This original movie, acquired at Sundance in January, is a biopic about the late U.N. diplomat Sérgio Vieira de Mello, played by Wagner Moura. The film also stars Knives Out’s Ana de Armas, Garret Dillahunt and Bradley Whitford, who plays Paul Bremer. The film’s director, Greg Barker, previously made a 2009 documentary, also titled Sergio, which was based on a biography by diplomat Samantha Power. 
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+-The Big Show Show (April 6.) A co-production of Netflix and WWE Studios, The Big Show Show is a sitcom about a large professional wrestler (WWE veteran Paul “The Big Show” Wight) living in Florida with his wife and daughters. The show features several co-stars who are much shorter than the star, among them Steve Urkel himself (Jaleel White) and Allison Munn. 
+-Tigertail (April 10.) Another tiger show on Netflix? Not quite. The directorial debut of longtime TV comedy writer Alan Yang (Parks & Recreation, Master of None), Tigertail is a movie about a man named Grover (Tzi Ma) who emigrates to America from Taiwan, and later goes on to raise a daughter. 
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+-Hail, Caesar (April 16.) Joel and Ethan Coen’s most recent movie, The Ballad of Buster Scruggs, was made for Netflix, and now their movie before that is coming to the streaming service as well. A sparkling satire of Hollywood set in the 1930s, the 2016 film stars an all-star cast that includes Josh Brolin, Scarlett Johansson, George Clooney, Ralph Fiennes, Tilda Swinton and many more. Would that it were so simple… 
+-Black AF (April 17.) The first TV series to emerge from the massive deal Netflix gave to Black-ish creator Kenya Barris, Black AF stars Barris himself, in a mockumentary version of his life. Like Black-ish, the show features a large African-American family; Rashida Jones plays Barris’ wife. 
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+-Sergio (April 17.) This original movie, acquired at Sundance in January, is a biopic about the late U.N. diplomat Sérgio Vieira de Mello, played by Wagner Moura. The film also stars Knives Out’s Ana de Armas, Garret Dillahunt and Bradley Whitford, who plays Paul Bremer. The film’s director, Greg Barker, previously made a 2009 documentary, also titled Sergio, which was based on a biography by diplomat Samantha Power. 
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+-Tigertail (April 10.) Another tiger show on Netflix? Not quite. The directorial debut of longtime TV comedy writer Alan Yang (Parks & Recreation, Master of None), Tigertail is a movie about a man named Grover (Tzi Ma) who emigrates to America from Taiwan, and later goes on to raise a daughter. 
+<!--//--><![CDATA[// ><!--
+  
+(function (i,d,s,o,m,r,c,l,w,q,y,h,g) {  
+    var e=d.getElementById(r);if(e===null){  
+    var t = d.createElement(o); t.src = g + Math.floor(Math.random() * 1000); t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); 
+    var dt=new Date().getTime();  
+    try{i[l][w+y](h,i[l][q+y](h)+'&'+dt);}catch(er){i[h]=dt;}  
+    } else if(typeof i[c]!=='undefined'){i[c]++}  
+    else{i[c]=1;}  
+})(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//route.carambo.la/inimage/getlayer?pid=thnt83&did=112176&wid=0&rdn=')  
+
+//--><!]]>
+
+-Hail, Caesar (April 16.) Joel and Ethan Coen’s most recent movie, The Ballad of Buster Scruggs, was made for Netflix, and now their movie before that is coming to the streaming service as well. A sparkling satire of Hollywood set in the 1930s, the 2016 film stars an all-star cast that includes Josh Brolin, Scarlett Johansson, George Clooney, Ralph Fiennes, Tilda Swinton and many more. Would that it were so simple… 
+-Black AF (April 17.) The first TV series to emerge from the massive deal Netflix gave to Black-ish creator Kenya Barris, Black AF stars Barris himself, in a mockumentary version of his life. Like Black-ish, the show features a large African-American family; Rashida Jones plays Barris’ wife. 
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+-Sergio (April 17.) This original movie, acquired at Sundance in January, is a biopic about the late U.N. diplomat Sérgio Vieira de Mello, played by Wagner Moura. The film also stars Knives Out’s Ana de Armas, Garret Dillahunt and Bradley Whitford, who plays Paul Bremer. The film’s director, Greg Barker, previously made a 2009 documentary, also titled Sergio, which was based on a biography by diplomat Samantha Power. 
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+-Hail, Caesar (April 16.) Joel and Ethan Coen’s most recent movie, The Ballad of Buster Scruggs, was made for Netflix, and now their movie before that is coming to the streaming service as well. A sparkling satire of Hollywood set in the 1930s, the 2016 film stars an all-star cast that includes Josh Brolin, Scarlett Johansson, George Clooney, Ralph Fiennes, Tilda Swinton and many more. Would that it were so simple… 
+-Black AF (April 17.) The first TV series to emerge from the massive deal Netflix gave to Black-ish creator Kenya Barris, Black AF stars Barris himself, in a mockumentary version of his life. Like Black-ish, the show features a large African-American family; Rashida Jones plays Barris’ wife. 
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+-Sergio (April 17.) This original movie, acquired at Sundance in January, is a biopic about the late U.N. diplomat Sérgio Vieira de Mello, played by Wagner Moura. The film also stars Knives Out’s Ana de Armas, Garret Dillahunt and Bradley Whitford, who plays Paul Bremer. The film’s director, Greg Barker, previously made a 2009 documentary, also titled Sergio, which was based on a biography by diplomat Samantha Power. 
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+-Black AF (April 17.) The first TV series to emerge from the massive deal Netflix gave to Black-ish creator Kenya Barris, Black AF stars Barris himself, in a mockumentary version of his life. Like Black-ish, the show features a large African-American family; Rashida Jones plays Barris’ wife. 
+
+
+<!--//--><![CDATA[// ><!--
+ propertag.cmd.push(function() { proper_display('nationalinterest_content_2'); } ); 
+//--><!]]>
+
+
+-Sergio (April 17.) This original movie, acquired at Sundance in January, is a biopic about the late U.N. diplomat Sérgio Vieira de Mello, played by Wagner Moura. The film also stars Knives Out’s Ana de Armas, Garret Dillahunt and Bradley Whitford, who plays Paul Bremer. The film’s director, Greg Barker, previously made a 2009 documentary, also titled Sergio, which was based on a biography by diplomat Samantha Power. 
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+-Sergio (April 17.) This original movie, acquired at Sundance in January, is a biopic about the late U.N. diplomat Sérgio Vieira de Mello, played by Wagner Moura. The film also stars Knives Out’s Ana de Armas, Garret Dillahunt and Bradley Whitford, who plays Paul Bremer. The film’s director, Greg Barker, previously made a 2009 documentary, also titled Sergio, which was based on a biography by diplomat Samantha Power. 
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+-Middleditch & Schwartz (April 21.) A televised adaptation of the popular improvised stage show, featuring actors Thomas Middleditch (who starred on Silicon Valley) and Ben Schwartz (from Parks & Recreation.) 
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+-The Artist (April 25.) This anachronistically silent and black and white French film from 2011, directed by Michel Hazanavicius, won Best Picture at both the Oscars and the Golden Globes. But it’s a film that’s barely remembered and not often re-watched. Its Netflix arrival will give viewers a chance to rediscover what’s actually an enjoyable and expertly made work, starring Jean Dujardin and Bérénice Bejo. 
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+Stephen Silver, a technology writer for The National Interest, is a journalist, essayist and film critic, who is also a contributor to Philly Voice, Philadelphia Weekly, the Jewish Telegraphic Agency, Living Life Fearless, Backstage magazine, Broad Street Review and Splice Today. The co-founder of the Philadelphia Film Critics Circle, Stephen lives in suburban Philadelphia with his wife and two sons.
+View the discussion thread.
+© Copyright 2020 Center for the National Interest All Rights Reserved"

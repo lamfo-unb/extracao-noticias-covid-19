@@ -4,7 +4,7 @@ Created on Fri Mar 27 18:06:26 2020
 
 @author: piphi
 """
-from ErrorLogger import Error_Logger
+import logging
 try:
     from scraper import Scraper
 except Exception:
@@ -14,20 +14,33 @@ class Scraper_Manager:
     """
     This manages all scrapers and the error logger
     """
-    def __init__(self, path):
+    def __init__(self):
         self.scrapers = []
-        self.logger = Error_Logger(path)
-    
+        logging.basicConfig(level=logging.DEBUG,
+                    format='%(asctime)s %(name)-12s %(levelname)-8s %(message)s',
+                    datefmt='%m-%d %H:%M',
+                    filename='scrapers.log',
+                    filemode='w+')
+
     def add(self, scraper: Scraper):
         self.scrapers.append(scraper)
     
     def run_all(self):
-        self.logger.start_log()
+        FORMAT = '%(asctime)-15s %(clientip)s %(user)-8s %(message)s'
+        logging.basicConfig(format = FORMAT)
+
+        logging.info("Starting Program")
         for scraper in self.scrapers:
             try:
+                logging.debug("Starting: " + scraper.get_name())
                 scraper.run()
-            except Exception as e:
-
-                self.logger.log_error(scraper.get_name(), e)
-        self.logger.end_log()
+                logging.debug("Finishing: " + scraper.get_name())
+            except Exception:
+                logging.exception(scraper.get_name() + " failed because of: ")
+        logging.info("Finished Program")
+        logging.shutdown()
+        
+if __name__ == "__main__":
+    manager = Scraper_Manager()
+    manager.run_all()                
         

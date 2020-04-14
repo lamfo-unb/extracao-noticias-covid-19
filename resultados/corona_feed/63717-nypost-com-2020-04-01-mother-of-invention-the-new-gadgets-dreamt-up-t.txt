@@ -1,0 +1,63 @@
+"Thanks for contacting us. We've received your submission.
+Tech
+By Reuters
+Submit
+April 1, 2020 | 1:45pm
+LONDON/OAKLAND/BUCHAREST – Driving to work at his factory to the west of London last week, designer Steve Brooks had coronavirus on his mind. What could he make that would let him open a door without touching the handle?
+“Everyone has to use their little finger or find the bit of the door that nobody’s touched,” said the designer and owner at DDB Ltd, a company which makes office furniture. So he produced a hook to do the job.
+The so-called hygienehook is small enough to fit in a pocket and made from a non-porous material, which makes it easy to clean. It is one of hundreds of gadgets dreamt up in recent days and weeks to help prevent people from spreading the coronavirus.
+From furniture makers to AI software developers, companies around the world are adapting existing products or inventing new ones to help fight the pandemic or just make life easier for those working from home, in hospitals or stuck in quarantine.
+The flurry of innovation comes as companies from Ford and Airbus to luxury goods giant LVMH retool plants to make critical equipment like hand sanitizers, ventilators and masks.
+In years gone by it was large companies like these, with the financial clout and factories, who typically had to be relied upon to move rapidly from designing a prototype to manufacturing the product.
+A crucial difference now, though, is that 3D printing and high-tech software mean devices can be produced faster than ever by companies big and small.
+“There is definitely a ton of people with 3D resources very willing to help,” said MacKenzie Brown, founder of California-based product design company CAD Crowd.
+Two weeks ago, his company launched a month-long contest for practical devices for navigating the new coronavirus world.
+About 65 entries have poured in, including a wrist-mounted disinfectant sprayer, half gloves for knuckle-pushing of buttons and a device that lets you open car doors without touching the handle, aimed at cab users.
+As the pandemic makes people far more aware of hygiene, some new products may have a shelf life beyond the current crisis.
+‘WE HAD THE ALGORITHM’
+Startups are retooling their technology.
+In Seattle, brothers Joseph and Matthew Toles and their friend Justin Ith, who own a young company called Slightly Robot, had developed a wristband after college aimed at reducing compulsive skin-picking, nail-biting, and hair-pulling.
+When their home city reported its first fatalities from the virus last month, they adapted the design to create a new smartband, the Immutouch, which buzzes when the wearer’s hand goes near their face.
+“We had the algorithm, we had the software and the hardware. We’ve repurposed it for face-touching,” Matthew Toles said in an interview. “We made 350 devices and a website in one week and now it’s how fast can we ramp up.”
+Romanian robotic software company UiPath has meanwhile found a way for nurses in the Mater Misericordiae University Hospital in the Irish capital Dublin to ditch time-consuming data entry and automate filing of virus test results. It hopes to replicate it in other hospitals.
+Scylla, a U.S.-based AI company that makes gun detection systems for schools and casinos, turned its sights on the virus when China, the original epicenter of the outbreak, reported its first cases three months ago.
+It has re-deployed its AI analytics software to measure the temperature of a person’s forehead, sending out an alert if it detects a fever. Taking images from a thermal camera, the software can be used in public buildings like hospitals and airports, and corporate offices, chief technology officer Ara Ghazaryan said.
+The government of a South American nation has placed an order for 5,000 licenses of Scylla’s system for its public buildings and transport system, Ghazaryan said. He declined to name the country.
+WORLD WAR TWO INNOVATION
+Global upheaval often spawns new products and innovation.
+The current burst of creativity may eventually compare to that seen during World War Two when companies, governments and scientists embarked on projects that had lasting consequences.
+Technology used to help guide rockets eventually led to the first satellites and putting men on the moon.
+“There’s no question that inventors will be coming up with hundreds, if not thousands, of new ideas,” said Kane Kramer, inventor and co-founder of the British Inventor’s Society. He first conceived the idea of downloading music and data in the late 1970s.
+“Everyone’s downed tools and are only picking them up to fight the virus. It’s a global war.”
+Many companies are donating their new wares or selling them at cost price. The CAD Crowd contest designs are free for download and use, for example. For some, though, the extra business could provide a financial cushion as other sources of income evaporate during the pandemic.
+DDB designer Brooks near London has worked quickly.
+Less than a week after his first design, four different models of the hook went on sale this week, selling at just under $18.60 each. He is donating one hook for every one he sells.
+Now Brooks is turning his creative eye to another gadget along similar lines.
+“We’ve already had a request from the National Health Service in Wales about designing something for pushing a door.”
+Read Next
+AI tool finds 3 coronavirus signs that often lead to a sev...
+Read Next
+AI tool finds 3 coronavirus signs that often lead to a sev...
+Share Selection
+Stay informed with our Coronavirus Daily Update newsletter.
+Read Latest Updates
+This story has been shared 165,335 times.
+165,335
+This story has been shared 136,112 times.
+136,112
+This story has been shared 133,810 times.
+133,810
+This story has been shared 82,697 times.
+82,697
+© 2020 NYP Holdings, Inc. All Rights Reserved
+Terms of Use
+Privacy Notice
+Your Ad Choices
+Sitemap
+California Privacy Rights
+
+Do Not Sell My Personal Information
+Would you like to receive desktop browser notifications about breaking news and other major stories?
+Not Now			
+
+				Yes Please"

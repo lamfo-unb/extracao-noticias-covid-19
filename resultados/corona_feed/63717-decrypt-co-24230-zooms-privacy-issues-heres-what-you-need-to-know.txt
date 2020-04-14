@@ -1,0 +1,34 @@
+"Menu
+Reading
+Search
+About
+News
+Business
+4 min read
+Apr 1, 2020Apr 1, 2020
+Zoom was even used for a UK Government meeting on recently. (Image: Shutterstock)
+Not long ago, Zoom was just a pedestrian app used by a handful of distributed companies for video conferencing. Now, even governments conduct meetings on it; schools use it as a virtual classroom, and some people even have sex parties on it.
+As a result, Zoom stock has doubled since the start of the coronavirus crisis—investors have been betting that it remains a mainstream corporate tool in the aftermath.
+But that initial enthusiasm is fast fading, because Zoom has been facing increased scrutiny over customer privacy. Recently, there have been daily revelations over what it does with users’ data, and its controversial attention-tracking feature. On Tuesday, a new report revealed that Zoom‘s claim to the most private form of internet communication, end-to-end encryption, is unjustified.
+Zoom, is in fact, using its own definition of end-to-end encryption, according to an investigation by The Intercept news site. It’s one that lets Zoom itself access unencrypted video and audio from meetings.
+The encryption that Zoom uses to protect meetings is TLS (transport layer security). It’s the same technology that web servers use to secure HTTPS websites, and it means that, while content is private from anyone spying on your Wi-Fi, it’s not private from Zoom.
+But that’s not the only privacy infringement Zoom’s been accused of. On Tuesday, it was also revealed that hackers can steal passwords through Zoom’s Windows client. Cyber experts warn that the app allows bad actors to access email account passwords simply by clicking a link sent over web chat because of a security flaw.
+
+This Windows version of Zoom was used for a UK Government Cabinet meeting on Tuesday. UK Prime Minister Boris Johnson posted a photo of the Zoom meeting to Twitter, including the meeting ID number and the names of participants, which experts warned was exactly not how to do it. Let alone that the UK’s Ministry of Defence has banned the use of Zoom.
+To add to Zoom’s woes, on Monday, the FBI reported an increase in hackers infiltrating meetings to post pornographic or hate images. They called the phenomenon “Zoom-Bombing.”
+And last week, Decrypt reported that Zoom is able to monitor the activity on your computer and collect information about which programs are currently running. It also captures what window you have in focus.
+What’s more, according to the Electronic Privacy Information Center (EPIC), Zoom intentionally designed its web conferencing service to bypass browser security settings, and remotely enable a user's web camera without the consent. The EPIC has filed a complaint with the Federal Trade Commission (FTC) over this issue.
+Zoom is increasingly used by families during lockdown. (Image: Flickr)
+Unbelievably, there’s even more. Last week, Zoom’s iOS app was found to be sending data to Facebook without explicit user consent. The data sent included the model of the device being used, and its unique advertising identifier.
+The company has since removed the code responsible, but not before New York's top prosecutor began a probe into Zoom’s security practices. The company is also being sued in California over the Facebook issue.
+The lawsuit claims that Zoom was paid for sharing user data, an allegation the company refutes.
+The coronavirus epidemic is holding a candle to our civil liberties and right to privacy, which is proving most fragile during this time of crisis. But there’s never been a more important time to hold tech companies to account.
+
+New York Attorney General Letitia James has demanded that Zoom up its game and provide details on how it will better safeguard users' data going forward. But as the lockdown continues, she also voiced concerns that “Zoom's existing security practices may not be sufficient to adapt to the recent and sudden surge in both the volume and sensitivity of data being passed through its network.”
+The UK government is one that would thus be advised to hold its meetings in a more private forum. If not, zoom-bombing could be the least of our worries.
+Top stories, original features, rewards & more.
+Get the best of Decrypt where you want it most.
+Menu
+Search
+About
+Share"

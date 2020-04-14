@@ -1,0 +1,7 @@
+"Log in using your social network account
+Log in directly with The Independent
+Want an ad-free experience?Subscribe to Independent Premium.
+Hi {{fullName}}
+Sorry – we can't find that page
+The address could have been entered incorrectly, or the page could have gone missing.
+Please click here for the homepage or click the search icon on the top right hand corner of the page."

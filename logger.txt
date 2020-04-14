@@ -1,3 +1,245 @@
 Logger File
 Began logging at: 18:25:13
 --------------------
+Began logging at: 15:42:00
+--------------------
+CNN Scraper failed at: 15:42:23
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 88, in _get_CNN_soup
+    threading.Timer(self.timeout, self._load_CNN_page(url, driver))
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 75, in _load_CNN_page
+    loaded_frame = driver.find_elements_by_xpath("html[@data-triggered='true']")
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 410, in find_elements_by_xpath
+    return self.find_elements(by=By.XPATH, value=xpath)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1007, in find_elements
+    'value': value})['value'] or []
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.163)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 107, in run
+    total_results = self._get_total_results()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 98, in _get_total_results
+    CNN_soup = self._get_CNN_soup(self.url)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 91, in _get_CNN_soup
+    self._load_CNN_page(url, driver)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 74, in _load_CNN_page
+    driver.get(url)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.163)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\ScraperManager.py", line 28, in run_all
+    scraper.run()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 110, in run
+    total_results = self._get_total_results()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 98, in _get_total_results
+    CNN_soup = self._get_CNN_soup(self.url)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 86, in _get_CNN_soup
+    driver = webdriver.Chrome(executable_path=path)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
+    desired_capabilities=desired_capabilities)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created
+from chrome not reachable
+  (Session info: chrome=80.0.3987.163)
+
+--------------------
+Ended Logging at: 15:42:23
+--------------------
+Began logging at: 15:44:17
+--------------------
+CNN Scraper failed at: 15:45:16
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\ScraperManager.py", line 28, in run_all
+    scraper.run()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 132, in run
+    self._update_list(update)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 192, in _update_list
+    article_list = pickle.load(pickle_in)
+AttributeError: Can't get attribute 'Article' on <module '__main__' from 'C:\\Users\\piphi\\Documents\\CoronaVirusScraper\\extracao-noticias-covid-19\\main.py'>
+--------------------
+Ended Logging at: 15:45:16
+--------------------
+Began logging at: 15:49:52
+--------------------
+CNN Scraper failed at: 15:50:13
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\ScraperManager.py", line 28, in run_all
+    scraper.run()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 132, in run
+    self._update_list(update)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 192, in _update_list
+    article_list = pickle.load(pickle_in)
+ModuleNotFoundError: No module named 'scrapers.CNN.CNN_Scraper_script'
+--------------------
+Ended Logging at: 15:50:13
+--------------------
+Began logging at: 15:58:09
+--------------------
+CNN Scraper failed at: 15:58:35
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\ScraperManager.py", line 28, in run_all
+    scraper.run()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 132, in run
+    self._update_list(update)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 192, in _update_list
+    article_list = pickle.load(pickle_in)
+ModuleNotFoundError: No module named 'scrapers.CNN'
+--------------------
+Ended Logging at: 15:58:35
+--------------------
+Began logging at: 15:59:58
+--------------------
+CNN Scraper failed at: 16:00:32
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\ScraperManager.py", line 28, in run_all
+    scraper.run()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 132, in run
+    self._update_list(update)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 192, in _update_list
+    article_list = pickle.load(pickle_in)
+ModuleNotFoundError: No module named 'scrapers.CNN'
+--------------------
+Ended Logging at: 16:00:32
+--------------------
+Began logging at: 16:01:23
+--------------------
+CNN Scraper failed at: 16:01:44
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\ScraperManager.py", line 28, in run_all
+    scraper.run()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 132, in run
+    self._update_list(update)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 191, in _update_list
+    pickle_in = open(path, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\piphi\\Documents\\CoronaVirusScraper\\extracao-noticias-covid-19\\article.pickle'
+--------------------
+Ended Logging at: 16:01:44
+--------------------
+Began logging at: 16:04:00
+--------------------
+CNN Scraper failed at: 16:04:18
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\ScraperManager.py", line 28, in run_all
+    scraper.run()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 132, in run
+    self._update_list(update)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 207, in _update_list
+    pickle.dump(article_list, pickle_out)
+UnboundLocalError: local variable 'article_list' referenced before assignment
+--------------------
+Ended Logging at: 16:04:18
+--------------------
+Began logging at: 16:06:39
+--------------------
+CNN Scraper failed at: 16:07:14
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\ScraperManager.py", line 28, in run_all
+    scraper.run()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 132, in run
+    self._update_list(update)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 195, in _update_list
+    article_list = pickle.load(pickle_in)
+EOFError: Ran out of input
+--------------------
+Ended Logging at: 16:07:14
+--------------------
+Began logging at: 16:08:31
+--------------------
+Ended Logging at: 16:39:12
+--------------------
+Began logging at: 10:20:13
+--------------------
+CNN Scraper failed at: 10:21:06
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 88, in _get_CNN_soup
+    threading.Timer(self.timeout, self._load_CNN_page(url, driver))
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 79, in _load_CNN_page
+    loaded_frame = driver.find_elements_by_xpath("html[@data-triggered='true']")
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 410, in find_elements_by_xpath
+    return self.find_elements(by=By.XPATH, value=xpath)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1007, in find_elements
+    'value': value})['value'] or []
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=80.0.3987.163)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 107, in run
+    total_results = self._get_total_results()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 98, in _get_total_results
+    CNN_soup = self._get_CNN_soup(self.url)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 91, in _get_CNN_soup
+    self._load_CNN_page(url, driver)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 74, in _load_CNN_page
+    driver.get(url)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=80.0.3987.163)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\ScraperManager.py", line 28, in run_all
+    scraper.run()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 110, in run
+    total_results = self._get_total_results()
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 98, in _get_total_results
+    CNN_soup = self._get_CNN_soup(self.url)
+  File "C:\Users\piphi\Documents\CoronaVirusScraper\extracao-noticias-covid-19\scrapers\CNN_Scraper_script.py", line 86, in _get_CNN_soup
+    driver = webdriver.Chrome(executable_path=path)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
+    desired_capabilities=desired_capabilities)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\piphi\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created
+from chrome not reachable
+  (Session info: chrome=80.0.3987.163)
+
+--------------------
+Ended Logging at: 10:21:25
+--------------------

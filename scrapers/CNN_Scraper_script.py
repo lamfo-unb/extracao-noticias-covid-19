@@ -185,22 +185,40 @@ class CNN_Scraper(Scraper):
             writer.writerows(article_list)
               
     def _update_list(self, article):
-    
-         # loads in previous articles
-        path = os.path.dirname(os.path.abspath(__file__)) + '\\article.pickle'
-        pickle_in = open(path, "rb")
-        article_list = pickle.load(pickle_in)
-        pickle_in.close()
         
-        if (article not in article_list):
-            article_list.append(article)
-            print(article)
+        article_list = [article]
+    
+        try:
+            # loads in previous articles
+            path = os.getcwd() + '\\article.pickle'
+            pickle_in = open(path, "rb")
+            article_list = pickle.load(pickle_in)
+            pickle_in.close()
+            
+            if (article not in article_list):
+                article_list.append(article)
+                print(article)
+                
+            
+                
+            
+            
+        except FileNotFoundError:
+            print("Creating new pickle file")
+            pickle_out = open("article.pickle","wb+")
+            pickle.dump(article_list, pickle_out)
+            pickle_out.close()
+        
+        finally:
+            pickle_out = open("article.pickle","wb")
+            pickle.dump(article_list, pickle_out)
+            pickle_out.close()
+        
+        
+            
             
         
-        pickle_out = open("article.pickle","wb")
-        pickle.dump(article_list, pickle_out)
-        pickle_out.close()
-    
+        
     def get_name(self):
         return "CNN Scraper"
     
