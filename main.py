@@ -39,3 +39,4 @@ manager.add(CNN)
 # Run scrapers
 manager.run_all()
 
+
