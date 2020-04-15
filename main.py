@@ -26,7 +26,7 @@ worldometer = Worldometer_Scraper(PATH_DIR + "\\worldometer.csv")
 CNN = CNN_Scraper(CNN_DIR)
 corona_feed = Artigos_Abertos_Runner(PATH_DIR)
 brasil_io = BrasilIO()
-jh_runner = JH_Runner('resultados\\jhon_hopkins\\')
+jh_runner = JH_Runner( os.getcwd() + '\\resultados\\jhon_hopkins\\')
 
 
 manager.add(worldometer)

@@ -96,6 +96,7 @@ if __name__ == '__main__':
     
     # hoje = date.today()
     # hoje - timedelta(days = 1)
+    print(PATH_RESULTADOS)
     djh = DataJhonHopkins()
     djh.download_data(verbose=True)
     djh.salvar_dados(path_dir=PATH_RESULTADOS)

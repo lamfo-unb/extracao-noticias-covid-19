@@ -14,7 +14,7 @@ except Exception:
 
 class JH_Runner(Scraper):
     def __init__(self, path_dir):
-        self.path = os.path.split(os.getcwd())[0] + "\\" + path_dir
+        self.path = path_dir
     def run(self):
         djh = DataJhonHopkins()
         djh.download_data(verbose=True)
@@ -23,5 +23,6 @@ class JH_Runner(Scraper):
         return "John Hopkins Scraper"
     
 if __name__ == "__main__":
+    PATH_DIR = os.path.split(os.getcwd())[0]
     runner = JH_Runner('resultados/jhon_hopkins/')
     runner.run()

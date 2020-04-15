@@ -80,10 +80,13 @@ class CNN_Scraper(Scraper):
     
     def _get_CNN_soup(self, url):
         
+        options = webdriver.ChromeOptions()
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
 
-        path = os.path.dirname(os.path.abspath(__file__)) + '\\chromedriver.exe'
+        path = os.getcwd() + '\\scrapers\\chromedriver.exe'
         
-        driver = webdriver.Chrome(executable_path=path)
+        
+        driver = webdriver.Chrome(executable_path=path, options=options)
         try:
             threading.Timer(self.timeout, self._load_CNN_page(url, driver))
         except Exception:
