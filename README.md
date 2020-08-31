@@ -1,4 +1,6 @@
 # Extração de dados do covid-19
+![CI](https://github.com/lamfo-unb/extracao-noticias-covid-19/workflows/CI/badge.svg)  
+
 
 Extração de dados sobre o Novo Covid 19
 
