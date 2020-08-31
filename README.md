@@ -11,3 +11,9 @@ conda env create -f environment.yml
 conda activate scraping-noticias # Windows
 python main.py
 ```
+
+## Black Formatter
+```
+pip install black
+black ./
+```
